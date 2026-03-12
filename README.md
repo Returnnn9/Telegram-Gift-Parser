@@ -81,5 +81,5 @@
 ---
 
 <p align="center">
-  <i>Developed with ❤️ for the Telegram Community</i>
+  <i>Developed  ian </i>
 </p>
